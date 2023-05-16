@@ -1,0 +1,17 @@
+{
+  "name": "it-support-docs",
+  "version": "1.0.0",
+  "description": "documentation for it-support",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "Phillip Friis Petersen",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.75",
+    "vue": "^3.3.2"
+  }
+}
