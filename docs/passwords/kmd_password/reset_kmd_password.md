@@ -31,7 +31,13 @@ Indtast kommandoen 'z725' for at nulstille password for en bestemt bruger
 Indtast et nyt engangskodeord og ændre Aktiv fra 'N' til 'J'
 Tryk derefter Enter og så er koden nulstillet
 ```
----
+
+## Krav til adgangskoder
+Nedenstående er de krav Frederiksberg kommune/KMD har sat på adgangskoder.  Nulstillede adgangskoder er altid midlertidige og skal skiftes af brugeren ved første login.
+1.	Det skal være en blanding af bogstaver og tal
+2.	Længden skal være nøjagtig 8 karakterer
+3.	Må ikke indeholde navn eller brugernavn
+4.	Informér brugeren om den midlertidige adgangskode (enten per telefon eller email – det er god praksis ikke at inkludere loginnavn og adgangskode i samme email)
 
 ## Find KMD bruger
 
@@ -53,4 +59,4 @@ Indtast 1 for at vælge 'Ajourføring af brugeroplysninger'
 Indtast navnet for den pågældende bruger
 Derefter vil brugernavnet kunne findes i venstre bjælke
 ```
----
+
