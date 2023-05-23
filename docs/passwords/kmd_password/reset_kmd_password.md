@@ -4,29 +4,29 @@
 
 ---
 ![](kmd1.png)
-```
+```js
 Søg først efter 'KMD' og åben appen
 ```
 ---
 ![](kmd2.png)
-```
+```js
 Login med dit administrative kmd login
 ```
 ---
 ![](kmd3.png)
-```
+```js
 Indtast 'CICS' og tryk enter
 ```
 ---
 ![](kmd4.png)
-```
+```js
 Indtast kommandoen 'z725' for at nulstille password for en bestemt bruger
 ```
 ---
 ![](kmd5.png)
-```
+```js
 Indtast et nyt engangskodeord og ændre Aktiv fra 'N' til 'J'
-Tryk derefter enter og så er koden nulstillet
+Tryk derefter Enter og så er koden nulstillet
 ```
 ---
 
@@ -34,17 +34,17 @@ Tryk derefter enter og så er koden nulstillet
 
 ---
 ![](kmd6.png)
-```
+```js
 Indtast kommandoen 'z727' for at finde bruger
 ```
 ---
 ![](kmd7.png)
-```
+```js
 Indtast '1' for at vælge 'Ajourføring af brugeroplysninger'
 ```
 ---
 ![](kmd8.png)
-```
+```js
 Indtast navnet for den pågældende bruger
 Derefter vil brugernavnet kunne findes i venstre bjælke
 ```
