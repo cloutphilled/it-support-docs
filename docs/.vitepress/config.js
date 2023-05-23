@@ -23,11 +23,11 @@ export default {
 
       sidebar: [
         {
-            text: "Section A",
+            text: "Reset af Passwords",
             collapsible: true,
             items: [
-                { text: "Reset AD password", link: "/reset_ad_password"},
-                { text: "Getting Started", link: "/getting-started" },
+                { text: "Reset AD password", link: "/ad_password/reset_ad_password" },
+                { text: "Reset KMD password", link: "/kmd_password/reset_kmd_password" },
             ],
         },
         {
