@@ -74,7 +74,7 @@ Fold så 'Addins' ud og tryk på det pågældende plugin
 
 ![](plugin13.png)
 ```js
-Dobbeltklik på 'LoadBehavior' og sæt værdien på 3
+Dobbeltklik på 'LoadBehavior' og sæt værdien til 3
 ```
 
 

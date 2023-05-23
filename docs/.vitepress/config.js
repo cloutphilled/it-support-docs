@@ -31,14 +31,6 @@ export default {
             ],
         },
         {
-            text: "Placeholder",
-            collapsible: true,
-            items: [
-                { text: "Placeholder", link: "" },
-                { text: "Placeholder", link: "" },
-            ],
-        },
-        {
             text: "Outlook / Word",
             collapsible: true,
             items: [
@@ -53,6 +45,14 @@ export default {
             { text: "Placeholder", link: "print/placeholder" },
           ]
         },
+        {
+          text: "Placeholder",
+          collapsible: true,
+          items: [
+              { text: "Placeholder", link: "" },
+              { text: "Placeholder", link: "" },
+          ],
+      },
       ],
       footer: {
         // message: "Released under the MIT License.",
