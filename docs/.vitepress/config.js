@@ -46,6 +46,13 @@ export default {
                 { text: "Getting Started", link: "/getting-started" },
             ],
         },
+        {
+          text: "Print",
+          collapsible: true,
+          items: [
+            { text: "Placeholder", link: "" },
+          ]
+        },
       ],
       footer: {
         // message: "Released under the MIT License.",
