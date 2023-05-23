@@ -23,7 +23,7 @@ export default {
 
       sidebar: [
         {
-            text: "Reset af Passwords",
+            text: "Passwords",
             collapsible: true,
             items: [
                 { text: "Reset AD password", link: "/passwords/ad_password/reset_ad_password" },
@@ -31,26 +31,26 @@ export default {
             ],
         },
         {
-            text: "Outlook plugins",
+            text: "Placeholder",
             collapsible: true,
             items: [
-                { text: "Introduction", link: "/introduction" },
-                { text: "Getting Started", link: "/getting-started" },
+                { text: "Placeholder", link: "" },
+                { text: "Placeholder", link: "" },
             ],
         },
         {
-            text: "Outlook",
+            text: "Outlook / Word",
             collapsible: true,
             items: [
-                { text: "Tilføj fællesmail", link: "/outlook/faellesmail" },
-                { text: "Getting Started", link: "/getting-started" },
+                { text: "Tilføj fællesmail", link: "/outlook_word/faellesmail/faellesmail" },
+                { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
             ],
         },
         {
           text: "Print",
           collapsible: true,
           items: [
-            { text: "Placeholder", link: "" },
+            { text: "Placeholder", link: "print/placeholder" },
           ]
         },
       ],

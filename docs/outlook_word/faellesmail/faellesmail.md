@@ -1,6 +1,6 @@
 # Tilføj fællesmailkonto
 
-<p style="color: #00CC66; border: 1px solid rgba(0, 204, 102, 1); border-radius:5px; padding: 1rem;">Denne guide er til at tilføje en fælles mailkonto</p>
+<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Denne guide er til at tilføje en fælles mailkonto</p>
 
 ---
 ![](faellesmail1.png)
