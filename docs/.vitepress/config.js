@@ -26,12 +26,12 @@ export default {
             text: "Reset af Passwords",
             collapsible: true,
             items: [
-                { text: "Reset AD password", link: "/ad_password/reset_ad_password" },
-                { text: "Reset KMD password", link: "/kmd_password/reset_kmd_password" },
+                { text: "Reset AD password", link: "/passwords/ad_password/reset_ad_password" },
+                { text: "Reset KMD password", link: "/passwords/kmd_password/reset_kmd_password" },
             ],
         },
         {
-            text: "Section B",
+            text: "Outlook plugins",
             collapsible: true,
             items: [
                 { text: "Introduction", link: "/introduction" },
@@ -39,10 +39,10 @@ export default {
             ],
         },
         {
-            text: "Section C",
+            text: "Outlook",
             collapsible: true,
             items: [
-                { text: "Introduction", link: "/introduction" },
+                { text: "Tilføj fællesmail", link: "/outlook/faellesmail" },
                 { text: "Getting Started", link: "/getting-started" },
             ],
         },
