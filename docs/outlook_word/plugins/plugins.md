@@ -1,19 +1,17 @@
 # Deaktiverede plugins i Outlook og Word
 
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Denne guide er til genaktivering af plugins i Outlook og Word</p>
-
----
-
 ## Aktiver plugins
 
-Plugins i Word og Outlook har det med at deaktivere, typisk vil det være SBSYS, Autosignatur, Send sikker og Dynamic Template. 
+<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Plugins i Word og Outlook har det med at deaktivere, typisk vil det være SBSYS, Autosignatur, Send sikker og Dynamic Template. </p>
 
 
-Plugins i både Word og Outlook genaktiveres på samme måde:
+> Plugins i både Word og Outlook genaktiveres på samme måde:
+
+
 
 ![](plugin1.png)
 ```js
-Start med tryk på 'Filer'
+Start med at tryk på 'Filer'
 ```
 
 ![](plugin2.png)

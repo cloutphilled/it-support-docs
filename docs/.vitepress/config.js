@@ -36,6 +36,7 @@ export default {
             items: [
                 { text: "Tilføj fællesmail", link: "/outlook_word/faellesmail/faellesmail" },
                 { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
+                { text: "Autosvar fra fællespostkasse", link: "/outlook_word/autosvar/autosvar" },
             ],
         },
         {
@@ -46,11 +47,11 @@ export default {
           ]
         },
         {
-          text: "Placeholder",
+          text: "Skype",
           collapsible: true,
           items: [
-              { text: "Placeholder", link: "" },
-              { text: "Placeholder", link: "" },
+              { text: "Nulstilling af Skype Profil", link: "skype/skype_profile/skype_profile" },
+              { text: "Snapper", link: "skype/snapper/snapper" },
           ],
       },
       ],
