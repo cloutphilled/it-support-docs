@@ -3,8 +3,9 @@ export default {
       logo: "frb_byvaaben_transparent.png",
       siteTitle: "IT-support docs",
       nav: [
-        { text: "About", link: "/about" },
-        { text: "Contact", link: "/contact" },
+        { text: "Hjem", link: "/index"},
+        { text: "Om", link: "/about" },
+        { text: "Kontakt", link: "/contact" },
     //     { text: "Guide", link: "/guide" },
     //     { text: "Configs", link: "/configs" },
     //     { text: "Changelog",
@@ -47,6 +48,7 @@ export default {
             { text: "Installering af netværksprinter", link: "print/network_printer/network_printer"},
             { text: "Privat udskrift", link: "print/privat_udskrift/privat_udskrift" },
             { text: "Print til boks", link: "print/print_til_boks/print_til_boks" },
+            { text: "Oprettelse af brugerdefineret boks", link: "print/dokument_boks/dokument_boks"},
           ]
         },
         {
