@@ -1,11 +1,16 @@
 # Reset af KMD password og Find bruger
 
+## Krav til adgangskoder
+
+<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Nedenstående er de krav Frederiksberg kommune/KMD har sat på adgangskoder.  Nulstillede adgangskoder er altid midlertidige og skal skiftes af brugeren ved første login</p>
+
+1.	Det skal være en blanding af bogstaver og tal
+2.	Længden skal være nøjagtig 8 karakterer
+3.	Må ikke indeholde navn eller brugernavn
+4.	Informér brugeren om den midlertidige adgangskode (enten per telefon eller email – det er god praksis ikke at inkludere loginnavn og adgangskode i samme email)
 
 ## Reset af KMD password
 
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Denne guide er til at nulstille brugerpasswords i KMD</p>
-
----
 ![](kmd1.png)
 ```js
 Søg først efter 'KMD' og åben appen
@@ -32,14 +37,7 @@ Indtast et nyt engangskodeord og ændre Aktiv fra 'N' til 'J'
 Tryk derefter Enter og så er koden nulstillet
 ```
 
-## Krav til adgangskoder
 
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Nedenstående er de krav Frederiksberg kommune/KMD har sat på adgangskoder.  Nulstillede adgangskoder er altid midlertidige og skal skiftes af brugeren ved første login</p>
-
-1.	Det skal være en blanding af bogstaver og tal
-2.	Længden skal være nøjagtig 8 karakterer
-3.	Må ikke indeholde navn eller brugernavn
-4.	Informér brugeren om den midlertidige adgangskode (enten per telefon eller email – det er god praksis ikke at inkludere loginnavn og adgangskode i samme email)
 
 ## Find KMD bruger
 
