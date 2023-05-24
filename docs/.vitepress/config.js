@@ -54,6 +54,13 @@ export default {
               { text: "Snapper", link: "skype/snapper/snapper" },
           ],
       },
+      {
+        text: "VPN",
+        collapsible: true,
+        items: [
+          { text: "Opret VPN-forbindelse", link: "vpn/vpn_logon/vpn_logon" },
+        ]
+      }
       ],
       footer: {
         // message: "Released under the MIT License.",
