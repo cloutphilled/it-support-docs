@@ -2,7 +2,7 @@
 
 ## Aktiver plugins
 
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Plugins i Word og Outlook har det med at deaktivere, typisk vil det være SBSYS, Autosignatur, Send sikker og Dynamic Template. </p>
+<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Plugins i Word og Outlook har det med at deaktivere, typisk vil det være SBSYS, Autosignatur, Send sikker og Dynamic Template.</p>
 
 
 > Plugins i både Word og Outlook genaktiveres på samme måde:

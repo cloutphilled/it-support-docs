@@ -43,7 +43,7 @@ export default {
           text: "Print",
           collapsible: true,
           items: [
-            { text: "Placeholder", link: "print/placeholder" },
+            { text: "Privat Udskrift", link: "print/privat_udskrift/privat_udskrift" },
           ]
         },
         {
