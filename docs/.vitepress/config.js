@@ -46,6 +46,7 @@ export default {
           items: [
             { text: "Installering af netværksprinter", link: "print/network_printer/network_printer"},
             { text: "Privat Udskrift", link: "print/privat_udskrift/privat_udskrift" },
+            { text: "Print til boks", link: "print/print_til_boks/print_til_boks" },
           ]
         },
         {
@@ -55,7 +56,7 @@ export default {
               { text: "Nulstilling af Skype Profil", link: "skype/skype_profile/skype_profile" },
               { text: "Snapper", link: "skype/snapper/snapper" },
           ],
-      },
+        },
       {
         text: "VPN",
         collapsible: true,
