@@ -61,7 +61,14 @@ export default {
         items: [
           { text: "Opret VPN-forbindelse", link: "vpn/vpn_logon/vpn_logon" },
         ]
-      }
+      },
+      {
+        text: "SBSYS",
+        collapsible: true,
+        items: [
+          { text: "", link: "" },
+        ]
+      },
       ],
       footer: {
         // message: "Released under the MIT License.",
