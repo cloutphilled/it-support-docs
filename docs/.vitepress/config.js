@@ -66,7 +66,7 @@ export default {
         text: "SBSYS",
         collapsible: true,
         items: [
-          { text: "", link: "" },
+          { text: "Mailboks opsætning", link: "sbsys/mailboks/mailboks" },
         ]
       },
       ],
