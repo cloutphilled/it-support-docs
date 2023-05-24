@@ -1,8 +1,18 @@
 # Rest AD password
 
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Denne guide er til at nulstille brugerpasswords i AD</p>
+## Krav til adgangskoder
 
----
+<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Nedenstående er de krav Frederiksberg kommune/KMD har sat på adgangskoder.  Nulstillede adgangskoder er altid midlertidige og skal skiftes af brugeren ved første login</p>
+
+1.	Det skal være en blanding af bogstaver og tal
+2.	Længden skal være mindst 12 karakterer
+3.	Må ikke indeholde navn eller brugernavn
+4.	Skal indeholde mindst 1 stort og 1 småt bogstav
+5.  Skal indeholde tal
+
+
+## Reset af Password
+
 ![Admin server](AD6.png)
 ```js
 Log først ind på Admin serveren ved at klikke på ikonet "SRRDSADM01"
