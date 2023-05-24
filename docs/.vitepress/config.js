@@ -37,6 +37,7 @@ export default {
                 { text: "Tilføj fællesmail", link: "/outlook_word/faellesmail/faellesmail" },
                 { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
                 { text: "Autosvar fra fællespostkasse", link: "/outlook_word/autosvar/autosvar" },
+                { text: "Email signatur til fællespostkasse", link: "outlook_word/email_signatur_faelles/email_signatur_faelles" },
             ],
         },
         {
