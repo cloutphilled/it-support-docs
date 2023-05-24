@@ -24,6 +24,16 @@ export default {
 
       sidebar: [
         {
+          text: "Outlook / Word",
+          collapsible: true,
+          items: [
+              { text: "Autosvar fra fællespostkasse", link: "/outlook_word/autosvar/autosvar" },
+              { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
+              { text: "Email signatur til fællespostkasse", link: "outlook_word/email_signatur_faelles/email_signatur_faelles" },
+              { text: "Tilføj fællesmail", link: "/outlook_word/faellesmail/faellesmail" },
+          ],
+      },
+        {
             text: "Passwords",
             collapsible: true,
             items: [
@@ -31,24 +41,23 @@ export default {
                 { text: "Reset KMD password", link: "/passwords/kmd_password/reset_kmd_password" },
             ],
         },
-        {
-            text: "Outlook / Word",
-            collapsible: true,
-            items: [
-                { text: "Tilføj fællesmail", link: "/outlook_word/faellesmail/faellesmail" },
-                { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
-                { text: "Autosvar fra fællespostkasse", link: "/outlook_word/autosvar/autosvar" },
-                { text: "Email signatur til fællespostkasse", link: "outlook_word/email_signatur_faelles/email_signatur_faelles" },
-            ],
-        },
+        
         {
           text: "Print",
           collapsible: true,
           items: [
             { text: "Installering af netværksprinter", link: "print/network_printer/network_printer"},
+            { text: "Oprettelse af brugere på Kyocera-printer", link: "print/dokumentboks/dokumentboks"},
             { text: "Privat udskrift", link: "print/privat_udskrift/privat_udskrift" },
             { text: "Print til boks", link: "print/print_til_boks/print_til_boks" },
-            { text: "Oprettelse af brugere på Kyocera-printer", link: "print/dokumentboks/dokumentboks"},
+            
+          ]
+        },
+        {
+          text: "SBSYS",
+          collapsible: true,
+          items: [
+            { text: "Mailboks opsætning", link: "sbsys/mailboks/mailboks" },
           ]
         },
         {
@@ -66,13 +75,7 @@ export default {
           { text: "Opret VPN-forbindelse", link: "vpn/vpn_logon/vpn_logon" },
         ]
       },
-      {
-        text: "SBSYS",
-        collapsible: true,
-        items: [
-          { text: "Mailboks opsætning", link: "sbsys/mailboks/mailboks" },
-        ]
-      },
+      
       ],
       footer: {
         // message: "Released under the MIT License.",

@@ -1,7 +1,5 @@
 # Tilføj fællesmailkonto
 ---
-<p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Denne guide er til at tilføje en fælles mailkonto i Outlook.</p>
-
 
 ![](faellesmail1.png)
 ```js
