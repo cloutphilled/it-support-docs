@@ -45,7 +45,7 @@ export default {
           collapsible: true,
           items: [
             { text: "Installering af netværksprinter", link: "print/network_printer/network_printer"},
-            { text: "Privat Udskrift", link: "print/privat_udskrift/privat_udskrift" },
+            { text: "Privat udskrift", link: "print/privat_udskrift/privat_udskrift" },
             { text: "Print til boks", link: "print/print_til_boks/print_til_boks" },
           ]
         },

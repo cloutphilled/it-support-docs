@@ -1,5 +1,7 @@
 # Privat udskrift
 
+---
+
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">'Privat udskrift' fungerer på samme måde som 'Brugerdefineret boks', men adskiller sig ved at der ikke skal oprettes nogen brugere på selve printeren. Det er derfor nemmere at administrere.</p>
 
 ## Oprettelse af privat udskrift

@@ -1,10 +1,11 @@
 # Autosvar
 
-
+---
 
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Fordelen ved at bruge denne metoder er, at der altid sendes et svar for hver mail der modtages – uanset om det er fra samme afsender. Der kan ikke sættes en automatisk start/stop tidspunkt, så reglen skal manuelt slås til/fra.</p>
 
 > NB: Ved at bruge det normale ”Automatiske svar”, bliver der kun sendt ét autosvar per afsender – uan-set hvor mange mails hver afsender sender. Denne metode kan selvfølgelig også bruges 
+
 
 ![](autosvar1.png)
 ```js

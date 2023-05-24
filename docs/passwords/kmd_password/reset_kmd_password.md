@@ -11,6 +11,7 @@
 
 ## Reset af KMD password
 
+
 ![](kmd1.png)
 ```js
 Søg først efter 'KMD' og åben appen
@@ -43,7 +44,6 @@ Tryk derefter Enter og så er koden nulstillet
 
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Hvis brugernavnet på personen skal findes, kan det gøres som nedenstående</p>
 
----
 ![](kmd6.png)
 ```js
 Indtast kommandoen 'z727' for at finde bruger

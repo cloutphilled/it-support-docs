@@ -1,5 +1,6 @@
 # Installering af netværksprinter
 
+---
 
 ![](network_printer4.png)
 ![](network_printer5.png)

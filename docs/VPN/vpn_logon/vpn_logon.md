@@ -1,5 +1,7 @@
 # Opret VPN-forbindelsen før Login
 
+---
+
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Manuel etablering af VPN-forbindelsen inden man logger ind på sin PC giver følgende fordele:
 
 1.	Du får mulighed for at ændre din adgangskode hvis den er udløbet

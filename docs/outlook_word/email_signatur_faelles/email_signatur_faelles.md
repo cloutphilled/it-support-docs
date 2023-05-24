@@ -1,5 +1,7 @@
 # Sådan tilføjes email signatur til en fælles postkasse 
 
+---
+
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Hvis fællespostkassen har været installeret tidligere på den gamle måde, skal den først fjernes og så tilføjes igen på den nye måde, før man kan tilføje sin email signatur som standard signatur.</p>
 
 ![](email_signatur1.png)

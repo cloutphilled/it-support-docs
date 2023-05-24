@@ -1,5 +1,7 @@
 # Oprettelse af print til boks
 
+---
+
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Bemærk at printeren først skal være installeret på computeren.</p>
 
 ![](print_til_boks1.png)

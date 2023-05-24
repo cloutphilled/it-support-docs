@@ -10,7 +10,6 @@
 4.	Skal indeholde mindst 1 stort og 1 småt bogstav
 5.  Skal indeholde tal
 
-
 ## Reset af Password
 
 ![Admin server](AD6.png)

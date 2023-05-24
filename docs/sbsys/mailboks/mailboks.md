@@ -1,5 +1,7 @@
 # Mailboks opsætning i SBSYS
 
+---
+
 ![](mailboks1.png)
 ```js
 Vælg 'E-post (Exchange)' under 'funktioner' (øverst til højre)
