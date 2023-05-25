@@ -12,6 +12,7 @@ export default {
         { text: "Hjem", link: "/index"},
         { text: "Om", link: "/about" },
         { text: "Kontakt", link: "/contact" },
+        
     //     { text: "Guide", link: "/guide" },
     //     { text: "Configs", link: "/configs" },
     //     { text: "Changelog",
@@ -90,6 +91,7 @@ export default {
       }
       
       ],
+      
       footer: {
         // message: "Released under the MIT License.",
         copyright: "Copyright © Phillip Friis Petersen",
