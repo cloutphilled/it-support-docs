@@ -5,6 +5,9 @@ export default {
     themeConfig: {
       logo: "frb_byvaaben_transparent.png",
       siteTitle: "IT-support docs",
+      search: {
+        provider: 'local'
+      },
       nav: [
         { text: "Hjem", link: "/index"},
         { text: "Om", link: "/about" },
@@ -78,6 +81,13 @@ export default {
           { text: "Opret VPN-forbindelse", link: "vpn/vpn_logon/vpn_logon" },
         ]
       },
+
+      {
+        text: "Diverse",
+        items: [
+          { text: "P-drev mangler", link: "diverse/p_drev/p_drev" },
+        ]
+      }
       
       ],
       footer: {
@@ -86,4 +96,6 @@ export default {
       },
     },
   };
+
+  
 

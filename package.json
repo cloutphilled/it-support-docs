@@ -13,5 +13,9 @@
   "dependencies": {
     "vitepress": "^1.0.0-alpha.75",
     "vue": "^3.3.2"
+  },
+  "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "vitepress-plugin-search": "^1.0.4-alpha.20"
   }
 }
