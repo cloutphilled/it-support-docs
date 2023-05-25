@@ -1,4 +1,7 @@
 export default {
+
+    title: 'FRB IT-support documentation',
+    description: 'Made by me',
     themeConfig: {
       logo: "frb_byvaaben_transparent.png",
       siteTitle: "IT-support docs",
@@ -25,7 +28,7 @@ export default {
       sidebar: [
         {
           text: "Outlook / Word",
-          collapsible: true,
+          collapsible: "true",
           items: [
               { text: "Autosvar fra fællespostkasse", link: "/outlook_word/autosvar/autosvar" },
               { text: "Deaktiverede Plugins", link: "/outlook_word/plugins/plugins" },
