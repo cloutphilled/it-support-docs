@@ -1,9 +1,9 @@
-# About
+# Om denne side
 
 
 <p style="color: #ff7340; border: 1px solid rgba(255, 135, 23, 0.25); border-radius:5px; padding: 1rem;">Denne side er til intern brug for IT-support i Frederiksberg Kommune.</p>
 
-Formålet med dette documentation site er at samle al intern viden ift. it-support. I den nuværende situation ligger informationen tilgængelig i forskellige word filer på S-drevet. Det kan derfor være besværligt at navigere rundt i informationen. På grund af dette ville jeg gerne samle det hele et sted, så det er nemt for medarbejderen at tilgå og slå den relevante resource op.
+Formålet med denne dokumentationsside er at samle al intern viden ift. it-support. I den nuværende situation ligger informationen tilgængelig i forskellige filer på S-drevet og er spredt rundt i diverse mapper. Det kan derfor være besværligt at navigere rundt i informationen. På grund af dette ville jeg gerne samle det hele et sted, så det er nemt for medarbejderen at tilgå og slå den relevante resource op.
 
 <!-- ```js
 const lang = prompt("What is your favorite programming language?");

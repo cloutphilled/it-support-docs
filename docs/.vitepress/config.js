@@ -3,15 +3,18 @@ export default {
     title: 'FRB IT-support documentation',
     description: 'Made by me',
     themeConfig: {
-      logo: "frb_byvaaben_transparent.png",
+      logo: {
+        light: '/frb_byvaaben_transparent.png',
+        dark: '/frb_byvaaben_transparent.png'
+      },
       siteTitle: "IT-support docs",
       search: {
         provider: 'local'
       },
       nav: [
         { text: "Hjem", link: "/index"},
-        { text: "Om", link: "/about" },
-        { text: "Kontakt", link: "/contact" },
+        { text: "Om", link: "/om" },
+        { text: "Kontakt", link: "/kontakt" },
         
     //     { text: "Guide", link: "/guide" },
     //     { text: "Configs", link: "/configs" },
