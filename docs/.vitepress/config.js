@@ -60,6 +60,7 @@ export default {
             { text: "Oprettelse af brugere på Kyocera-printer", link: "print/dokumentboks/dokumentboks"},
             { text: "Privat udskrift", link: "print/privat_udskrift/privat_udskrift" },
             { text: "Print til boks", link: "print/print_til_boks/print_til_boks" },
+            { text: "Ryd printerkøen", link: "print/print_queue/print_queue"},
             
           ]
         },
