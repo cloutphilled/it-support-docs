@@ -1,6 +1,6 @@
 # P-drev mangler
 
-## Script
+## Metode 1: Script
 ![](p_drev1.png)
 ```js
 Kør script 'SetHomeFolder_Remote_v1' fra 'SRRDSADM01'
@@ -22,7 +22,7 @@ Kør derefter 'Gruppe Politik Opdatering' på brugerens computer
 Nu vil P-drevet være synligt igen
 ```
 
-## Metode 2
+## Metode 2: Manuel opsætning
 
 <p style="color: #41B883; border: 1px solid #41B883; border-radius:5px; padding: 1rem;">Enkelte gange er det ikke muligt at få P-drevet frem igen vha. scriptet. Så kan det gøres manuelt på følgende måde.</p>
 
