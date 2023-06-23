@@ -13,6 +13,9 @@ https://www.ofir.dk/jobs/stabsmedarbejder-til-koebenhavns-ejendomme-og-koebenhav
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=179&ProjectId=192422&DepartmentId=22258&MediaId=5553 ✓ 
 https://www.ofir.dk/jobs/konsulenter-til-it-koebenhavns-ejendomme-og-koebenhavn-2264777/ ✓
 https://www.ofir.dk/jobs/it-sikkerhedskonsulenter-koebenhavns-ejendomme-og-koebenhavn-2264785/ ✓
+https://www.ofir.dk/jobs/serviceminded-it-koebenhavns-ejendomme-og-koebenhavn-2271898/ ✓
+https://www.ofir.dk/jobs/herlev-kommune-soeger-en-herlev-kommune-raadhuset-herlev-2268072/ ✓
+https://www.ofir.dk/jobs/it-administrator-til-rigspolitiet-glostrup-2263419/ ✓
 
 
 https://www.ofir.dk/jobs/apple-acmtios-tekniker-mentech-glostrup-as-glostrup-2265238/
@@ -21,14 +24,12 @@ https://www.ofir.dk/jobs/apple-acmtios-tekniker-mentech-glostrup-as-glostrup-226
 https://www.ofir.dk/jobs/dygtige-softwareudviklere-skatteforvaltningen-frederiksberg-2257643/ // onsdag 28. juni
 https://termaas.hr-on.com/show-job/144223&locale=en_US
 https://www.soprasteria.dk/bliv-en-af-os/ledige-stillinger/udvikler-job
-https://www.ofir.dk/jobs/serviceminded-it-koebenhavns-ejendomme-og-koebenhavn-2271898/ // 10. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
-https://www.ofir.dk/jobs/herlev-kommune-soeger-en-herlev-kommune-raadhuset-herlev-2268072/ tirsdag 15. august
 https://www.ofir.dk/jobs/technical-supportqa-bekey-as-gladsaxe-2275124/
 
 
 https://www.ofir.dk/jobs/microsoft-365-konsulent-sb-recruiting-aps-lyngby-taarbaek-2272244/
-https://www.ofir.dk/jobs/it-administrator-til-rigspolitiet-glostrup-2263419/
+
 https://nomeco.dk/job-i-nomeco/ledige-jobs?hr=show-job/153354&linkref=117302&locale=da_DK
 https://www.jobindex.dk/jobannonce/481994/-intune-specialist-microsoft-365
 https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/
