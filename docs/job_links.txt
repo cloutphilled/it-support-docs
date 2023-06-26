@@ -29,6 +29,7 @@ https://www.ofir.dk/jobs/microsoft-365-konsulent-sb-recruiting-aps-lyngby-taarba
 https://www.jobindex.dk/jobannonce/481994/-intune-specialist-microsoft-365 // INDRYKKET 21. juni
 https://www.soprasteria.dk/bliv-en-af-os/ledige-stillinger/udvikler-job
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
+https://www.jobindex.dk/jobannonce/484439/digital-redaktoer // 13. august
 
 
 -- SOFTWAREUDVIKLING --
@@ -37,6 +38,7 @@ https://termaas.hr-on.com/show-job/144223&locale=en_US
 https://www.soprasteria.dk/bliv-en-af-os/ledige-stillinger/udvikler-job
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
 https://www.ofir.dk/jobs/technical-supportqa-bekey-as-gladsaxe-2275124/ // INDRYKKET 23. juni
+https://www.jobindex.dk/jobannonce/484439/digital-redaktoer // 13. august
 
 
 -- GRADUATE PROGRAMS --
@@ -55,6 +57,12 @@ https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-
 https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
+
+
+-- MARKETING -- 
+https://vacancies.dan-bunkering.com/?job=2023-648 // 10. juli
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1628&ProjectId=143876&DepartmentId=18957&MediaId=4616 // 4. august
+https://www.jobindex.dk/jobannonce/484826/er-du-vores-nye-marketingkoordinator // 4. september
 
 
 
