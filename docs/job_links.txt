@@ -22,7 +22,7 @@ https://www.it-jobbank.dk/jobannonce/483549/it-on-site-support-engineer ✓
 https://www.jobindex.dk/jobannonce/484469/it-systems-administrator ✓
 https://www.ofir.dk/jobs/microsoft-365-konsulent-sb-recruiting-aps-lyngby-taarbaek-2272244/ ✓
 https://www.soprasteria.dk/bliv-en-af-os/ledige-stillinger/udvikler-job ✓
-
+https://www.ofir.dk/jobs/hello-world-vi-leder-vitec-datamann-as-herlev-2278957/?utm_source=jobmatch&utm_medium=e-mail ✓
 https://www.ofir.dk/jobs/technical-supportqa-bekey-as-gladsaxe-2275124/
 
 
@@ -40,6 +40,7 @@ https://termaas.hr-on.com/show-job/144223&locale=en_US
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
 https://www.ofir.dk/jobs/technical-supportqa-bekey-as-gladsaxe-2275124/ // INDRYKKET 23. juni
 https://www.jobindex.dk/jobannonce/484439/digital-redaktoer // 13. august
+
 
 
 -- GRADUATE PROGRAMS --
