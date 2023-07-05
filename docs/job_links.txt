@@ -25,6 +25,8 @@ https://www.soprasteria.dk/bliv-en-af-os/ledige-stillinger/udvikler-job ✓
 https://www.ofir.dk/jobs/hello-world-vi-leder-vitec-datamann-as-herlev-2278957/?utm_source=jobmatch&utm_medium=e-mail ✓
 https://www.ofir.dk/jobs/dygtige-softwareudviklere-skatteforvaltningen-frederiksberg-2257643/ ✓
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=179&ProjectId=192431&DepartmentId=22277&MediaId=5553 ✓
+https://www.jobindex.dk/jobannonce/484439/digital-redaktoer ✓
+https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler ✓
 
 
 ------------------------------------------------------------------------------------------------------
@@ -32,7 +34,6 @@ https://candidate.hr-manager.net/ApplicationInit.aspx?cid=179&ProjectId=192431&D
 
 -- TO-DO --
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
-https://www.jobindex.dk/jobannonce/484439/digital-redaktoer // 13. august
 https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer // 16. juli
 https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter // 31. august
 https://www.jobindex.dk/jobannonce/484102/start-din-karriere-som-marketingtrainee
@@ -45,8 +46,8 @@ https://termaas.hr-on.com/show-job/144223&locale=en_US
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
 https://www.ofir.dk/jobs/technical-supportqa-bekey-as-gladsaxe-2275124/ // INDRYKKET 23. juni
 https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team // 6. august
-https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
-https://www.jobindex.dk/jobannonce/484439/digital-redaktoer // 13. august
+
+
 
 
 -- GRADUATE PROGRAMS --
@@ -63,6 +64,7 @@ https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
 https://www.it-jobbank.dk/jobannonce/481536/it-supporter-til-rigsadvokaten // 31. august
+https://jobs.semler.dk/job/Br%C3%B8ndby-IT-supporter-med-fokus-p%C3%A5-Microsoft-platformen-til-Semler-IT/774379002/?from=email&refid=14847359302&utm_source=J2WEmail&source=2&eid=156702-202326040526-22856616802&locale=da_DK
 
 
 -- MARKETING -- 
