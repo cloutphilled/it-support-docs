@@ -27,6 +27,7 @@ https://www.ofir.dk/jobs/dygtige-softwareudviklere-skatteforvaltningen-frederiks
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=179&ProjectId=192431&DepartmentId=22277&MediaId=5553 ✓
 https://www.jobindex.dk/jobannonce/484439/digital-redaktoer ✓
 https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler ✓
+https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer ✓
 
 
 ------------------------------------------------------------------------------------------------------
@@ -34,7 +35,6 @@ https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler ✓
 
 -- TO-DO --
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
-https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer // 16. juli
 https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afdeling // 19. juli
 https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter // 31. august
 https://www.jobindex.dk/jobannonce/484102/start-din-karriere-som-marketingtrainee
@@ -53,7 +53,6 @@ https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team 
 
 
 -- GRADUATE PROGRAMS --
-https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer // 16. juli
 https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afdeling // 19. juli
 https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter // 31. august
 
