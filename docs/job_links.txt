@@ -29,6 +29,7 @@ https://www.jobindex.dk/jobannonce/484439/digital-redaktoer ✓
 https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler ✓
 https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer ✓
 https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afdeling ✓
+https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter ✓
 
 
 ------------------------------------------------------------------------------------------------------
@@ -36,7 +37,6 @@ https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afde
 
 -- TO-DO --
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
-https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter // 31. august
 https://www.jobindex.dk/jobannonce/484102/start-din-karriere-som-marketingtrainee
 https://www.jobindex.dk/jobannonce/481503/marketing-consultant-12-mdr-barselsvikariat
 
@@ -53,7 +53,7 @@ https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team 
 
 
 -- GRADUATE PROGRAMS --
-https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter // 31. august
+
 
 
 -- IT-SUPPORT --
