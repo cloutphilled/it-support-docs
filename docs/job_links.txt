@@ -30,6 +30,7 @@ https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler ✓
 https://www.it-jobbank.dk/jobannonce/484751/start-din-karriere-som-graduate-hos-en-af-danmarks-stoerste-it-driftsleverandoerer ✓
 https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afdeling ✓
 https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter ✓
+https://nomeco.dk/job-i-nomeco/ledige-jobs?hr=show-job/153354&linkref=117302&locale=da_DK ✓ 
 
 
 ------------------------------------------------------------------------------------------------------
@@ -38,7 +39,6 @@ https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-a
 -- TO-DO --
 https://www.ofir.dk/jobs/frontend-udvikler-ofir-as-gladsaxe-2238246/
 https://www.jobindex.dk/jobannonce/484102/start-din-karriere-som-marketingtrainee
-https://nomeco.dk/job-i-nomeco/ledige-jobs?hr=show-job/153354&linkref=117302&locale=da_DK // 21. juli
 https://www.it-jobbank.dk/jobannonce/485524/trainee-hos-softwareudvikling-i-rigspolitiets-koncern-it // 27. juli
 https://www.it-jobbank.dk/jobannonce/484191/it-specialist-til-dynamisk-og-udviklende-it-afdeling-paa-danmarks-stoerste-universitet // 30. juli
 https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/ // 31. juli
