@@ -32,6 +32,7 @@ https://www.it-jobbank.dk/jobannonce/484884/nyuddannede-til-banedanmarks-it-afde
 https://www.it-jobbank.dk/jobannonce/484589/rigspolitiet-starter-eftersoegning-af-nyuddannede-talenter ✓
 https://nomeco.dk/job-i-nomeco/ledige-jobs?hr=show-job/153354&linkref=117302&locale=da_DK ✓ 
 https://www.it-jobbank.dk/jobannonce/484191/it-specialist-til-dynamisk-og-udviklende-it-afdeling-paa-danmarks-stoerste-universitet ✓
+https://www.it-jobbank.dk/jobannonce/486262/it-konsulent ✓
 
 
 ------------------------------------------------------------------------------------------------------
@@ -44,7 +45,7 @@ https://www.it-jobbank.dk/jobannonce/485524/trainee-hos-softwareudvikling-i-rigs
 https://www.it-jobbank.dk/jobannonce/485679/it-koordinator-med-interesse-for-baade-teknik-og-mennesker // 30. juli
 https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/ // 31. juli
 https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
-https://www.it-jobbank.dk/jobannonce/486262/it-konsulent
+
 
 
 
@@ -63,7 +64,6 @@ https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmeri
 
 
 -- IT-SUPPORT --
-
 https://www.it-jobbank.dk/jobannonce/485730/it-supporter // 4. august
 https://www.it-jobbank.dk/jobannonce/485726/it-systemadministrator // 4. august
 https://www.it-jobbank.dk/jobannonce/485717/it-og-azure-supporter-til-spaendende-digital-rejse
