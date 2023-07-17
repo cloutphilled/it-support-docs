@@ -45,6 +45,8 @@ https://www.it-jobbank.dk/jobannonce/485524/trainee-hos-softwareudvikling-i-rigs
 https://www.it-jobbank.dk/jobannonce/485679/it-koordinator-med-interesse-for-baade-teknik-og-mennesker // 30. juli
 https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/ // 31. juli
 https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
+https://www.it-jobbank.dk/jobannonce/485730/it-supporter // 4. august
+https://www.it-jobbank.dk/jobannonce/485726/it-systemadministrator // 4. august
 
 
 
@@ -64,8 +66,6 @@ https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmeri
 
 
 -- IT-SUPPORT --
-https://www.it-jobbank.dk/jobannonce/485730/it-supporter // 4. august
-https://www.it-jobbank.dk/jobannonce/485726/it-systemadministrator // 4. august
 https://www.it-jobbank.dk/jobannonce/485717/it-og-azure-supporter-til-spaendende-digital-rejse
 https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn // 6. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 // 7. august
