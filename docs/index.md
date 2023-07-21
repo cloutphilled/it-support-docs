@@ -5,8 +5,8 @@ hero:
   name: IT-support dokumentation
   text: 
   image:
-    light: '/frb_logo_rgb.png'
-    dark: '/frb_logo_rgb_neg.png'
+    light: './frb_logo_rgb.png'
+    dark: './frb_logo_rgb_neg.png'
     alt: Frederiksberg logo
   tagline: Dokumentation og vejledninger for IT-afdelingen i Frederiksberg Kommune
   actions:
