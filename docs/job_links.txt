@@ -50,13 +50,18 @@ https://jobs.siemens.com/careers?location=Denmark&pid=563156116052039&domain=sie
 -- TO-DO --
 https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/ // 31. juli
 https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1628&ProjectId=143876&DepartmentId=18957&MediaId=4616 // 4. august
+https://www.it-jobbank.dk/jobannonce/485954/medarbejder-med-lyst-til-at-arbejde-med-drift-og-udvikling-af-hjemmesider // 4. august
+https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team // 6. august
+https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn // 6. august
+https://politi.dk/job-i-politiet/ledige-stillinger/nsk11070 // 6. august
+https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 // 6. august
 
 
 
 
 
 -- SOFTWAREUDVIKLING --
-https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team // 6. august
 https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
 https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
 
@@ -68,9 +73,6 @@ https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 // 8. august
 
 
 -- IT-SUPPORT --
-https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn // 6. august
-https://politi.dk/job-i-politiet/ledige-stillinger/nsk11070 // 6. august
-https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 // 6. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 // 7. august
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 // 8. august
@@ -82,8 +84,6 @@ https://www.it-jobbank.dk/jobannonce/481536/it-supporter-til-rigsadvokaten // 31
 
 
 -- MARKETING -- 
-https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1628&ProjectId=143876&DepartmentId=18957&MediaId=4616 // 4. august
-https://www.it-jobbank.dk/jobannonce/485954/medarbejder-med-lyst-til-at-arbejde-med-drift-og-udvikling-af-hjemmesider // 4. august
 https://www.jobindex.dk/jobannonce/484826/er-du-vores-nye-marketingkoordinator // 4. september
 
 
