@@ -64,6 +64,8 @@ https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 // 6. august
 -- SOFTWAREUDVIKLING --
 https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
 https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
+https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
+https://www.it-jobbank.dk/jobannonce/486991/java-webudvikler-til-udvikling-af-mit-pfa // 24. august
 
 
 
