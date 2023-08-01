@@ -40,6 +40,9 @@ https://politi.dk/job-i-politiet/ledige-stillinger/rp10969 ✓
 https://www.it-jobbank.dk/jobannonce/485726/it-systemadministrator ✓
 https://jobs.semler.dk/job/Br%C3%B8ndby-IT-supporter-med-fokus-p%C3%A5-Microsoft-platformen-til-Semler-IT/774379002/?from=email&refid=14847359302&utm_source=J2WEmail&source=2&eid=156702-202326040526-22856616802&locale=da_DK ✓
 https://jobs.siemens.com/careers?location=Denmark&pid=563156116052039&domain=siemens.com&sort_by=relevance ✓
+https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn ✓
+https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 ✓
+https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team ✓
 
 
 
@@ -48,37 +51,33 @@ https://jobs.siemens.com/careers?location=Denmark&pid=563156116052039&domain=sie
 
 
 -- TO-DO --
-https://emp.jobylon.com/jobs/190121-santander-consumer-bank-nordics-it-security-specialist/ // 31. juli
-https://www.jobindex.dk/jobannonce/484555/it-support // 31. juli
-https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1628&ProjectId=143876&DepartmentId=18957&MediaId=4616 // 4. august
 https://www.it-jobbank.dk/jobannonce/485954/medarbejder-med-lyst-til-at-arbejde-med-drift-og-udvikling-af-hjemmesider // 4. august
-https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team // 6. august
-https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn // 6. august
-https://politi.dk/job-i-politiet/ledige-stillinger/nsk11070 // 6. august
-https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 // 6. august
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 // 7. august
+https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 // 8. august
+https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
+https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 // 8. august
+https://www.it-jobbank.dk/jobannonce/485844/it-administrator // 9. august
+https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
+https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
+https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
+
+
 
 
 
 
 
 -- SOFTWAREUDVIKLING --
-https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
-https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
-https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
 https://www.it-jobbank.dk/jobannonce/486991/java-webudvikler-til-udvikling-af-mit-pfa // 24. august
 
 
 
 -- GRADUATE PROGRAMS --
-https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 // 8. august
+
 
 
 
 -- IT-SUPPORT --
-https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 // 7. august
-https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
-https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 // 8. august
-https://www.it-jobbank.dk/jobannonce/485844/it-administrator // 9. august
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
 https://www.it-jobbank.dk/jobannonce/487028/it-supporter-til-gladsaxe-kommunes-digitaliseringsafdeling // 16. august
 https://politi.dk/job-i-politiet/ledige-stillinger/rp10993 // 18. august
