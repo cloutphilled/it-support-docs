@@ -43,6 +43,7 @@ https://jobs.siemens.com/careers?location=Denmark&pid=563156116052039&domain=sie
 https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-centralt-i-koebenhavn ✓
 https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 ✓
 https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team ✓
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 ✓
 
 
 
@@ -51,8 +52,6 @@ https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team 
 
 
 -- TO-DO --
-https://www.it-jobbank.dk/jobannonce/485954/medarbejder-med-lyst-til-at-arbejde-med-drift-og-udvikling-af-hjemmesider // 4. august
-https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 // 7. august
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 // 8. august
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 // 8. august
