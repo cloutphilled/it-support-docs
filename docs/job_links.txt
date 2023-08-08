@@ -44,6 +44,9 @@ https://www.it-jobbank.dk/jobannonce/485501/it-systemadministrator-til-stilling-
 https://politi.dk/job-i-politiet/ledige-stillinger/nsk11035 ✓
 https://www.it-jobbank.dk/jobannonce/485124/applikationsudvikler-til-agilt-team ✓
 https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&DepartmentId=9414&MediaId=3327 ✓
+https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 ✓
+https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform ✓
+https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 ✓
 
 
 
@@ -52,16 +55,10 @@ https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&
 
 
 -- TO-DO --
-https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 // 8. august
-https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform // 8. august
-https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 // 8. august
 https://www.it-jobbank.dk/jobannonce/485844/it-administrator // 9. august
 https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
 https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
 https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
-
-
-
 
 
 
