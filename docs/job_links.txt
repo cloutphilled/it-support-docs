@@ -47,6 +47,8 @@ https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170809&
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 ✓
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform ✓
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 ✓
+https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering ✓
+https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
 
 
 
@@ -55,9 +57,6 @@ https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 ✓
 
 
 -- TO-DO --
-https://www.it-jobbank.dk/jobannonce/485844/it-administrator // 9. august
-https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering // 9. august
-https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
 https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
 
 
