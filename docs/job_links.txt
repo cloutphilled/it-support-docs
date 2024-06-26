@@ -48,7 +48,7 @@ https://politi.dk/job-i-politiet/ledige-stillinger/rp11017 ✓
 https://www.it-jobbank.dk/jobannonce/484158/systemadministrator-til-koebenhavns-universitets-hr-platform ✓
 https://politi.dk/job-i-politiet/ledige-stillinger/rp11016 ✓
 https://www.it-jobbank.dk/jobannonce/485858/aktuar-med-interesse-for-programmering ✓
-https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed
+https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-virksomhed ✓
 
 
 
@@ -57,7 +57,8 @@ https://www.it-jobbank.dk/jobannonce/486682/programmoerer-til-banebrydende-it-vi
 
 
 -- TO-DO --
-https://www.it-jobbank.dk/jobannonce/484805/softwareudvikler // 13. august
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
+https://www.it-jobbank.dk/jobannonce/487028/it-supporter-til-gladsaxe-kommunes-digitaliseringsafdeling // 16. august
 
 
 
@@ -73,8 +74,6 @@ https://www.it-jobbank.dk/jobannonce/486991/java-webudvikler-til-udvikling-af-mi
 
 
 -- IT-SUPPORT --
-https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1514&ProjectId=143748&DepartmentId=19975&MediaId=4625 // 15. august
-https://www.it-jobbank.dk/jobannonce/487028/it-supporter-til-gladsaxe-kommunes-digitaliseringsafdeling // 16. august
 https://politi.dk/job-i-politiet/ledige-stillinger/rp10993 // 18. august
 https://www.it-jobbank.dk/jobannonce/487108/nyuddannet-it-supporter-til-rudersdal-kommunes-it-servicedesk // 27. august
 https://www.it-jobbank.dk/jobannonce/481536/it-supporter-til-rigsadvokaten // 31. august
