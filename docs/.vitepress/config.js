@@ -1,11 +1,11 @@
 export default {
-
+    base: process.env.VITEPRESS_BASE || '/',
     title: 'FRB IT-support documentation',
     description: 'Made by me',
     themeConfig: {
       logo: {
-        light: '/frb_byvaaben_transparent.png',
-        dark: '/frb_byvaaben_transparent.png'
+        light: '/Frederiksberg_Kommune_coa.svg',
+        dark: '/Frederiksberg_Kommune_coa.svg'
       },
       siteTitle: "IT-support docs",
       search: {

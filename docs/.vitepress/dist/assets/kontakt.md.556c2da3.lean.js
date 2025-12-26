@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,V as e}from"./chunks/framework.a80c5540.js";const h=JSON.parse('{"title":"Kontakt","description":"","frontmatter":{},"headers":[],"relativePath":"kontakt.md","filePath":"kontakt.md"}'),n={name:"kontakt.md"},o=e("",3),l=[o];function p(c,r,i,_,C,d){return t(),s("div",null,l)}const m=a(n,[["render",p]]);export{h as __pageData,m as default};
